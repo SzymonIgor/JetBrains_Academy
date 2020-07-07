@@ -1,0 +1,8 @@
+*.yaml
+*.txt
+*.html
+*.idea/
+*Problems/
+*test_helper.py
+*tests.py
+*.pyc
